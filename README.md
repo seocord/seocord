@@ -1,3 +1,5 @@
+
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,19,24,25,27,&height=40&section=header&text=seocord&fontSize=35" />
 
 > undergraduate majoring in Electrnonic Engineering and IT Convergence
